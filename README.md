@@ -57,7 +57,8 @@ if __name__ == "__main__":
 ```
 ## OUTPUT:
 
-![image](https://github.com/Gokztechz/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/117667038/c565556e-a022-485d-9c9d-4d0a508f9081)
+![image](https://github.com/Gokztechz/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/117667038/eac8c9f2-7005-44f0-a68b-e55998370cdb)
+
 
 
 
